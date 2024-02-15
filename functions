@@ -1,1 +1,10 @@
+// a dart program of adding two numbers using functions
+void main(){
+int c=addTwo(4,7);
+print (c);
+}
 
+
+int addTwo(int a+ int b){
+return (a+b);
+}
